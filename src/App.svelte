@@ -1,12 +1,13 @@
 <script>
-  export let name
   import Counter from './components/Counter.svelte'
-  
+  import Clock from './components/Clock.svelte'
+  export let name
 </script>
 
 <main>
 	<h1>{name}</h1>
   <Counter/>
+  <Clock/>
 </main>
 
 <style>
@@ -16,8 +17,6 @@
 		max-width: 240px;
 		margin: 0 auto;
 	}
-
-	
 
 	@media (min-width: 640px) {
 		main {

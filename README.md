@@ -95,3 +95,14 @@ Then, from within your project folder:
 npm run build
 surge public my-project.surge.sh
 ```
+
+
+### Project Notes
+Created from a fork of the svelte template 
+
+followed the store tutorial 
+
+moved components into folders 
+
+deployed to begin.com 
+
