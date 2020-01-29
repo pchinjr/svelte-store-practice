@@ -63,9 +63,13 @@ If you're building a single-page app (SPA) with multiple routes, sirv needs to b
 ### With [Begin](https://begin.com)
 
 Go to [Begin](https://begin.com)
+
 Sign up with your GitHub Account
+
 Create New App
+
 Import this repo
+
 That's it! Commits to `master` will build and deploy your app to Staging
 
 ### With [now](https://zeit.co/now)
