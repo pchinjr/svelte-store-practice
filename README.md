@@ -52,9 +52,9 @@ If you're building a single-page app (SPA) with multiple routes, sirv needs to b
 
 ## Deploying to the web
 
-### With [Begin](https://begin.com)
+### With [begin](https://begin.com)
 
-Go to [Begin](https://begin.com)
+Go to [begin](https://begin.com)
 
 Sign up with your GitHub Account
 
